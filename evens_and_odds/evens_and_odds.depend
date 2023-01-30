@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674723133 source:c:\users\u1\documents\fiddler2\c_files\sum_of_evens_and_odds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1674902707 source:c:\users\legion_5i\documents\c_trials\udemy_trials\c_files\sum_of_evens_and_odds\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

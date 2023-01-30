@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674721916 source:c:\users\u1\documents\fiddler2\c_files\sum_of_evens_and_odds_cpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<iostream>
+	<vector>
+

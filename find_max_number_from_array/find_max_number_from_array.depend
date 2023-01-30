@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674811715 source:c:\users\u1\documents\fiddler2\c_files\find_max_number_from_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674829266 source:c:\users\legion_5i\documents\c_trials\udemy_trials\ready_for_github\find_max_number_from_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1674828010 source:c:\users\u1\documents\fiddler2\c_files\find_armstrong_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1675107889 source:c:\users\legion_5i\documents\c_trials\udemy_trials\ready_for_github\find_armstrong_number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

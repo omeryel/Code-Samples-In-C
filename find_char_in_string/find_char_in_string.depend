@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1674737232 source:c:\users\u1\documents\fiddler2\c_files\find_char_in_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
+1674906613 source:c:\users\legion_5i\documents\c_trials\udemy_trials\ready_for_github\find_char_in_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+

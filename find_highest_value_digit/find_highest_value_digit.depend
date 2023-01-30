@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674816570 source:c:\users\u1\documents\fiddler2\c_files\find_highest_value_digit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+
+1675108789 source:c:\users\legion_5i\documents\c_trials\udemy_trials\ready_for_github\find_highest_value_digit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
